@@ -11,6 +11,8 @@
 
 - 点底部的Relaunch
 
+![image](https://user-images.githubusercontent.com/23225539/199379228-53504282-f173-41c6-a593-699db10d77b1.png)
+
 ## 本地运行命令
 
 ```
